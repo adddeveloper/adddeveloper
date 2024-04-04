@@ -5,6 +5,6 @@
     - small businesses
 - Game Developer
     - lua
-    - web
+    - web (js, gdevelop, unity)
 
 [show more...](https://adnans.website)
